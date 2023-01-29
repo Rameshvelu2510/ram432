@@ -22,4 +22,13 @@ git push -u origin main
 2
 3
 4
+<<<<<<< HEAD
 5
+=======
+5
+6
+7
+8
+9
+0
+>>>>>>> dev
